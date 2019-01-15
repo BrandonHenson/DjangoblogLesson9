@@ -22,7 +22,7 @@ SECRET_KEY = '@)-4t7s)fs6s^zf4)5lwz$3sdrhjdi#cv(+35qfu&y*-=$oe=u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['py230-ubuntu-00501.westus.cloudapp.azure.com']
 
 
 # Application definition
